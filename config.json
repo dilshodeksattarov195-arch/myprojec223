@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperptringify",
+        "uuid": 1784446,
+        "checksum": "wzin2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
